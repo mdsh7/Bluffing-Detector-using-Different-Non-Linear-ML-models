@@ -26,7 +26,7 @@ To get how linear regression would have predict the salary, we compare the resul
 
 From this, we find that if the salary was predicted only with linear regression, it would have been a disaster but polynomial regression shows good result.
 
-### _Support Vector Machine_
+### _Support Vector Regression_
 
 Now the same data was fitted in SVR model. The model failed without feature scaling so feature scaling was done and then prediction was made.
 
@@ -34,7 +34,7 @@ Now the same data was fitted in SVR model. The model failed without feature scal
 
 ![svr](https://user-images.githubusercontent.com/14214659/71173415-591ae000-226b-11ea-9192-5acb315dfda0.png)
 
-It shows that SVR is less appropriate non linear regression model for this specific problem.
+It shows that SVR is less appropriate non-linear regression model for this specific problem.
 
 ### _Decision Tree_
 
